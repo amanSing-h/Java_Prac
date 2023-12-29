@@ -18,3 +18,12 @@ public class TailRecursion {
         }
 
 }
+/*
+function fact(cn, pm):
+if currentNumber is less or eqal to 0 then
+return pm
+else
+return fact (cn -1, cn*pm) // tail recursion
+end
+end
+ */
